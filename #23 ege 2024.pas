@@ -1,4 +1,4 @@
-﻿##
+﻿## 
 var s := ArrFill(19, 1);
 var a := 3..20;
 foreach var x in a do
